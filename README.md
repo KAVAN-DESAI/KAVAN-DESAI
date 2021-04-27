@@ -1,7 +1,6 @@
-### Gearing Up With Programming 👋
+##  Kavan Desai
 
-<--**KAVAN-DESAI/KAVAN-DESAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+### 👋 Gearing Up With Programming 👋
 
 
 - 💡 I’m currently learning and working on : - Flutter, Firebase, Datastructures and Algorithms.
