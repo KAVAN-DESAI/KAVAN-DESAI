@@ -1,6 +1,6 @@
 ### Gearing Up With Programming 👋
 
-**KAVAN-DESAI/KAVAN-DESAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**KAVAN-DESAI/KAVAN-DESAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
 
