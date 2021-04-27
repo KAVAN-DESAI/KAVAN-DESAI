@@ -8,6 +8,5 @@
 - 💬 Ask me about : - Tech in which I developed projects and Computer Programming for sure.
 - 📫 How to reach me: - [https://www.linkedin.com/in/kavan-desai/](@Linkedin)
 - 😄 Pronouns: - He/His
-- ⚡ Fun fact: - A cadet by passion and competitive programmer by passion and love to develop stuffs which impact the community.
+- ⚡ About me: -  A Enthusiast by nature and Competitive Programmer by passion. I am invariably desirous to design the solution efficient and optimized. I love building Web-application and stuff which makes an impact on society.I am always keen to help develop efficient solution of real life problems and Gear up the world with Programming. 
 - 🤯 Always keen to grab and discuss interesting knowledge about the balck-hole and the space theories.
-- :ab
