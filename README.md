@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/kavandesai22/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Kavan Desai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kavandesai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Kavan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/KAVAN-DESAI" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kavan desai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/KAVANDESAI22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yashrajkakkad" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/KAVANDESAI22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kavan" height="30" width="40" /></a>
 </p>
 - Feel free to reach out to me on LinkedIn for anything!
 
