@@ -1,7 +1,8 @@
 ##  Kavan Desai
 ### 💥Gearing Up With Programming💥
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAVAN-DESAI&label=Views&color=blue&style=plastic" alt="KAVAN-DESAI" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAVAN-DESAI&label=Views&color=7CFC00&style=flat" alt="KAVAN-DESAI" /> </p>
+<!-- Thanks komarev for this view feature  -->
 
 - 💡 I’m currently learning and working on : - Flutter, Firebase, Datastructures and Algorithms.
 - ♟️ I’m looking for help with: - Flutter and Firebase(especially to make a great user friendly app).
