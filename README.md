@@ -8,8 +8,15 @@
 - ♟️ I’m looking for help with: - Flutter and Firebase(especially to make a great user friendly app).
 - 💬 Ask me about : - Tech in which I developed projects and Computer Programming for sure.
 - 📫 How to reach me: - [@Linkedin](https://www.linkedin.com/in/kavan-desai/)
-- ⚡ About me: -  A Enthusiast by nature and Competitive Programmer by passion. I am invariably desirous to design the solution efficient and optimized. I love building Web-application and stuff which makes an impact on society.I am always keen to help develop efficient solution of real life problems and Gear up the world with Programming. 
+- ⚡ About me: -  I am Kavan Desai a student at School of Engineering and Applied Science, Ahmedabad University. I am Enthusiast by nature and Competitive Programmer by passion. I am rated 6 stars on hackerrank and specialist on codeforces. I have achieved decent grasp on Data Structures and Algorithms. I have solved more than 800+ problems on various coding platforms. I have been frequently working with Python, Django, Flutter, Firebase, Dart too.
 - 🤯 Always keen to grab and discuss interesting knowledge about the balck-hole and the space theories.
+### ◾ Achievement: -
+-  🔹 Google HashCode: Ranked among top 500 in India in Google HashCode 2022 with 5K+ Indian participants
+-  🔹 I am rated Specialist on Codeforces
+-  🔹 HackerRank: Rated 6 star in Problem Solving and 5 star in python
+-  🔹 Codeforces: Winner of team Practice Marathon 2.0 contest organized by Programming Club with 40+teams
+-  🔹 HackerCup by Facebook: Qualified for Round 2 in HackerCup by Facebook
+-  🔹 SnackDown: Qualified for Pre-elimination Round in Snackdown
 
 <h3 align="left">Connect with me:</h3>
 
