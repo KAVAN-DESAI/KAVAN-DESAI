@@ -13,7 +13,6 @@
 ### ◾ Achievement: -
 -  🔹 Google HashCode: Ranked among top 500 in India in Google HashCode 2022 with 5K+ Indian participants
 -  🔹 I am rated Specialist on Codeforces
--  🔹 HackerRank: Rated 6 star in Problem Solving and 5 star in python
 -  🔹 Codeforces: Winner of team Practice Marathon 2.0 contest organized by Programming Club with 40+teams
 -  🔹 HackerCup by Facebook: Qualified for Round 2 in HackerCup by Facebook
 -  🔹 SnackDown: Qualified for Pre-elimination Round in Snackdown
