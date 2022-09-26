@@ -16,7 +16,9 @@
 - ♟️ I’m looking for help with: - Flutter and Firebase(especially to make a great user friendly app).
 - 💬 Ask me about : - Tech in which I developed projects and Computer Programming for sure.
 - 📫 How to reach me: - [@Linkedin](https://www.linkedin.com/in/kavan-desai/)
-- ⚡ About me: -  I am Kavan Desai a student at School of Engineering and Applied Science, Ahmedabad University. I am Enthusiast by nature and Competitive Programmer by passion. I am rated 6 stars on hackerrank and specialist on codeforces. I have achieved decent grasp on Data Structures and Algorithms. I have solved more than 800+ problems on various coding platforms. I have been frequently working with Python, Django, Flutter, Firebase, Dart too.
+- ⚡ About me: -  I am Kavan Desai, I am in my final year(2023 batch) of undergrad in B-Tech in Computer Science and Engineering at School of Engineering and Applied Science, Ahmedabad University. I am Enthusiast by nature and Competitive Programmer by passion. I am specialist on codeforces. I have achieved decent grasp on Data Structures and Algorithms. I have solved over 800+ problems over various coding platforms. I have experience working with languages such as C++\C, Python, Dart, html etc and frameworks like Flutter, Django, Bootstrap etc and have worked with Firebase, Firestore Database too.
+I have worked with Summer of Bitcoin(https://www.summerofbitcoin.org/) and contributed to open source @lndart organization.
+
 - 🤯 Always keen to grab and discuss interesting knowledge about the balck-hole and the space theories.
 ### ◾ Achievement: -
 ⭐ Summer of Bitcoin: One of the 83 selected participants over 20,000+ student applications across 50+ countries.
