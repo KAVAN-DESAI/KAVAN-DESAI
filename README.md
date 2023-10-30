@@ -11,6 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KAVAN-DESAI&label=Views&color=7CFC00&style=flat" alt="KAVAN-DESAI" /> </p>
 <!-- Thanks komarev for this view feature  -->
+<a href="https://linktr.ee/kavandesai" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="KavanDesai"/></a>
 
 - 💡 I’m currently learning and working on : - Node, Express, Dart, Flutter, Firebase, Datastructures and Algorithms.
 - ♟️ I’m looking for help with: - Concurrency, Parallel and Distributed Systems
